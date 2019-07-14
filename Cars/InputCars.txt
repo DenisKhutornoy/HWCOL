@@ -1,0 +1,8 @@
+"ÃÀÇ-66",60000,90,25,3,Trucks;
+"Óğàë-4320",80000,100,50,15,Trucks;
+"ÊğàÇ-255Á",70000,70,40,7,Trucks;
+"ÇÈË-131",65000,70,30,5,Trucks;
+"Bogdan",90000,90,15,30,Passengercars;
+"ÃÇÀ-651",35000,70,20,24,Passengercars;
+"ÏÀÇ-32054",60000,90,35,36,Passengercars;
+"Mersedes-Sprinter",55000,120,30,20,Passengercars;
