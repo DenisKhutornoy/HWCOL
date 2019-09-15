@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<ul>
+    <li> <a href="ShowNewFilms">Показать новые фильмы</a></li>
+    <li> <a href="ShowFilmInformation">Показать информацию о фильме</a></li>
+    <li> <a href="ActorsWithManyRoles">Список актеров ,снявшихся во многих фильмах</a></li>
+    <li> <a href="ActorAsDirector">Список актеров, которые были режесерами</a></li>
+    <li> <a href="deleteOldFilms">Удалить старые фильмы</a></li>
+   
+     <div class="card">
+                    <img src="libraryBG.jpg" alt=">-<" class="plane">
+                    <div>
+                    </div>
+</ul>
